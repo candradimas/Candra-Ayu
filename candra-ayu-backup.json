@@ -1,0 +1,429 @@
+{
+  "projects": [
+    {
+      "id": "PRJ-001",
+      "name": "Proyek Contoh Rumah Tinggal",
+      "client": "Pelanggan Umum",
+      "location": "Jember",
+      "date": "2026-11-18",
+      "status": "Aktif"
+    }
+  ],
+  "materials": [
+    {
+      "code": "AL-OB3",
+      "name": "Aluminium Open Back 3 inch",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 185000
+    },
+    {
+      "code": "AL-OB4",
+      "name": "Aluminium Open Back 4 inch",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 225000
+    },
+    {
+      "code": "AL-121",
+      "name": "Profil 1/2 × 1",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 95000
+    },
+    {
+      "code": "AL-TYF",
+      "name": "Profil TYF",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 165000
+    },
+    {
+      "code": "AL-440",
+      "name": "T. Swing 440",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 175000
+    },
+    {
+      "code": "AL-AT",
+      "name": "A. Atas + Tutup",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 78000
+    },
+    {
+      "code": "AL-AB",
+      "name": "A. Bawah + Tutup",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 82000
+    },
+    {
+      "code": "AL-ENG",
+      "name": "T. Engsel",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 145000
+    },
+    {
+      "code": "AL-SLD",
+      "name": "T. Sliding",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 155000
+    },
+    {
+      "code": "AC-HNG",
+      "name": "Engsel Tanam",
+      "cat": "Aksesoris",
+      "unit": "pcs",
+      "length": 0,
+      "price": 25000
+    },
+    {
+      "code": "AC-DC",
+      "name": "Door Closer",
+      "cat": "Aksesoris",
+      "unit": "pcs",
+      "length": 0,
+      "price": 185000
+    },
+    {
+      "code": "AC-H34",
+      "name": "Engsel 3/4 inch",
+      "cat": "Aksesoris",
+      "unit": "pcs",
+      "length": 0,
+      "price": 12000
+    },
+    {
+      "code": "AC-HND",
+      "name": "Handel",
+      "cat": "Aksesoris",
+      "unit": "set",
+      "length": 0,
+      "price": 85000
+    },
+    {
+      "code": "AC-KNC",
+      "name": "Kunci",
+      "cat": "Aksesoris",
+      "unit": "set",
+      "length": 0,
+      "price": 95000
+    },
+    {
+      "code": "AC-SPG",
+      "name": "Spigot",
+      "cat": "Aksesoris",
+      "unit": "pcs",
+      "length": 0,
+      "price": 8000
+    },
+    {
+      "code": "AC-TRT",
+      "name": "Terot",
+      "cat": "Aksesoris",
+      "unit": "pcs",
+      "length": 0,
+      "price": 7000
+    },
+    {
+      "code": "AC-BLT",
+      "name": "Baut",
+      "cat": "Aksesoris",
+      "unit": "pcs",
+      "length": 0,
+      "price": 500
+    },
+    {
+      "code": "GL-KCA",
+      "name": "Kaca 5 mm",
+      "cat": "Kaca",
+      "unit": "m²",
+      "length": 0,
+      "price": 285000
+    },
+    {
+      "code": "AC-SLT",
+      "name": "Slet",
+      "cat": "Aksesoris",
+      "unit": "pcs",
+      "length": 0,
+      "price": 9000
+    },
+    {
+      "code": "AL-LDE",
+      "name": "Lisplang D/E",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 65000
+    },
+    {
+      "code": "WN-CSM",
+      "name": "Profil Casement",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 145000
+    },
+    {
+      "code": "WN-SLD",
+      "name": "Profil Sliding Window",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 135000
+    },
+    {
+      "code": "WN-TOP",
+      "name": "Profil Top Hung",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 150000
+    },
+    {
+      "code": "WN-AWN",
+      "name": "Profil Awning",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 152000
+    },
+    {
+      "code": "WN-FIX",
+      "name": "Profil Fixed Window",
+      "cat": "Profil Aluminium",
+      "unit": "batang",
+      "length": 6,
+      "price": 110000
+    }
+  ],
+  "labor": {
+    "produksi": 300000,
+    "instalasi": 500000
+  },
+  "profit": 50,
+  "waste": 5,
+  "formulas": {
+    "Pintu - TYF": [
+      {
+        "code": "AL-OB3",
+        "expr": "2*H + 2*W",
+        "enabled": true
+      },
+      {
+        "code": "AL-TYF",
+        "expr": "2*H + 2*W",
+        "enabled": true
+      },
+      {
+        "code": "AC-BLT",
+        "expr": "12",
+        "enabled": true
+      },
+      {
+        "code": "GL-KCA",
+        "expr": "(W-0.12)*(H-0.12)",
+        "enabled": true
+      },
+      {
+        "code": "AC-HND",
+        "expr": "1",
+        "enabled": true
+      },
+      {
+        "code": "AC-KNC",
+        "expr": "1",
+        "enabled": true
+      },
+      {
+        "code": "AC-HNG",
+        "expr": "3",
+        "enabled": true
+      }
+    ],
+    "Pintu - Bahan Besar": [
+      {
+        "code": "AL-OB4",
+        "expr": "2*H + 2*W",
+        "enabled": true
+      },
+      {
+        "code": "AL-440",
+        "expr": "2*H + 2*W",
+        "enabled": true
+      },
+      {
+        "code": "AL-AT",
+        "expr": "W",
+        "enabled": true
+      },
+      {
+        "code": "AL-AB",
+        "expr": "W",
+        "enabled": true
+      },
+      {
+        "code": "AL-ENG",
+        "expr": "2*H",
+        "enabled": true
+      },
+      {
+        "code": "AC-BLT",
+        "expr": "16",
+        "enabled": true
+      },
+      {
+        "code": "GL-KCA",
+        "expr": "(W-0.12)*(H-0.12)",
+        "enabled": true
+      },
+      {
+        "code": "AC-HND",
+        "expr": "1",
+        "enabled": true
+      },
+      {
+        "code": "AC-KNC",
+        "expr": "1",
+        "enabled": true
+      },
+      {
+        "code": "AC-DC",
+        "expr": "1",
+        "enabled": true
+      }
+    ],
+    "Pintu - Sliding": [
+      {
+        "code": "AL-OB3",
+        "expr": "2*H + 2*W",
+        "enabled": true
+      },
+      {
+        "code": "AL-SLD",
+        "expr": "4*W + 2*H",
+        "enabled": true
+      },
+      {
+        "code": "GL-KCA",
+        "expr": "(W-0.12)*(H-0.12)",
+        "enabled": true
+      },
+      {
+        "code": "AC-SPG",
+        "expr": "4",
+        "enabled": true
+      },
+      {
+        "code": "AC-TRT",
+        "expr": "2",
+        "enabled": true
+      },
+      {
+        "code": "AC-SLT",
+        "expr": "2",
+        "enabled": true
+      },
+      {
+        "code": "AC-HND",
+        "expr": "1",
+        "enabled": true
+      }
+    ],
+    "Jendela - Casement": [
+      {
+        "code": "WN-CSM",
+        "expr": "2*W+2*H",
+        "enabled": true
+      },
+      {
+        "code": "GL-KCA",
+        "expr": "(W-0.10)*(H-0.10)",
+        "enabled": true
+      },
+      {
+        "code": "AC-HNG",
+        "expr": "2",
+        "enabled": true
+      }
+    ],
+    "Jendela - Sliding": [
+      {
+        "code": "WN-SLD",
+        "expr": "4*W+2*H",
+        "enabled": true
+      },
+      {
+        "code": "GL-KCA",
+        "expr": "(W-0.10)*(H-0.10)",
+        "enabled": true
+      },
+      {
+        "code": "AC-SPG",
+        "expr": "4",
+        "enabled": true
+      }
+    ],
+    "Jendela - Top Hung": [
+      {
+        "code": "WN-TOP",
+        "expr": "2*W+2*H",
+        "enabled": true
+      },
+      {
+        "code": "GL-KCA",
+        "expr": "(W-0.10)*(H-0.10)",
+        "enabled": true
+      },
+      {
+        "code": "AC-HNG",
+        "expr": "2",
+        "enabled": true
+      }
+    ],
+    "Jendela - Awning": [
+      {
+        "code": "WN-AWN",
+        "expr": "2*W+2*H",
+        "enabled": true
+      },
+      {
+        "code": "GL-KCA",
+        "expr": "(W-0.10)*(H-0.10)",
+        "enabled": true
+      },
+      {
+        "code": "AC-HNG",
+        "expr": "2",
+        "enabled": true
+      }
+    ],
+    "Jendela - Fixed Window": [
+      {
+        "code": "WN-FIX",
+        "expr": "2*W+2*H",
+        "enabled": true
+      },
+      {
+        "code": "GL-KCA",
+        "expr": "(W-0.10)*(H-0.10)",
+        "enabled": true
+      }
+    ]
+  },
+  "jobs": []
+}
